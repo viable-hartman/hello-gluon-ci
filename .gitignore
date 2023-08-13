@@ -4,3 +4,9 @@ target/
 # IntelliJ IDEA
 .idea/
 *.iml
+
+# Ignore my workflow backup
+workflows.BAK.tar.gz
+
+# Ignore my Google Play Signing Keystore
+hello-gluon-ci.jks
